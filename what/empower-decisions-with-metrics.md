@@ -4,8 +4,6 @@ description: "Live at app.getseeko.com \U0001F331"
 
 # Empower Decisions with Metrics
 
-
-
 {% page-ref page="../product-guide/link-tracking.md" %}
 
 Medium drops the ball when comes to empowering its writers to understand their metrics and audience. **Seeko provides link tracking software to its writers for free!** 

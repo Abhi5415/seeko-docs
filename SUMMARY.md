@@ -5,9 +5,9 @@
 
 ## We Help Writers <a id="what"></a>
 
+* [Capture More Value from Articles](what/capture-more-value-from-articles.md)
 * [Empower Decisions with Metrics](what/empower-decisions-with-metrics.md)
-* [Promote with Ease](what/promote-with-ease/README.md)
-  * [Capture More Value from Articles](what/promote-with-ease/capture-more-value-from-articles.md)
+* [Promote with Ease](what/promote-with-ease.md)
 
 ## Product Guide
 
