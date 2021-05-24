@@ -1,17 +1,20 @@
 # What is Seeko
 
-Seeko is a tool that helps writers **monetize their content with ease**. Seeko recommends vetted monetized links for writers to add to their articles. Monetized links on Seeko can point to:
+We want to help **Medium writers to work more efficiently**💡by creating a powerful service for them to:
 
-1. Courses
-2. Books
-3. Software Services
-4. Other content \(videos, articles, etc.\)
+1. **Find the right products to promote**🔍\*\*\*\*
+2. **Analyze their metrics**🧪\*\*\*\*
+3. **License their content to 3rd parties**🤝
 
-We want to help **writers to work more efficiently**💡by creating a simple but yet powerful service for them to **find the right products to promote**🔍, **analyze their metrics**🧪 and **build their audience**🤝**.**
+Seeko aims to help writers **monetize their content with ease**. 
 
-We're constantly adding new functionality. This documentation will give you a brief tour of our product. 
+## Seeko Helps Writers
 
-{% page-ref page="link-tracking.md" %}
+{% page-ref page="what/empower-decisions-with-metrics.md" %}
+
+{% page-ref page="what/promote-with-ease/" %}
+
+{% page-ref page="what/promote-with-ease/capture-more-value-from-articles.md" %}
 
 
 
