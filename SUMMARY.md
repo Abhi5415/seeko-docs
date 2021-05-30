@@ -20,4 +20,5 @@
 * [Landing Page](http://getseeko.com/)
 * [Link Tracking App](http://app.getseeko.com/)
 * [Support](support.md)
+* [Technical Roadmap](technical-roadmap.md)
 
