@@ -21,4 +21,5 @@
 * [Link Tracking App](http://app.getseeko.com/)
 * [Support](support.md)
 * [Technical Roadmap](technical-roadmap.md)
+* [Seeko Demo](seeko-demo.md)
 
