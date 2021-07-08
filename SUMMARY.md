@@ -22,4 +22,5 @@
 * [Support](support.md)
 * [Technical Roadmap](technical-roadmap.md)
 * [Seeko Demo](seeko-demo.md)
+* [Connecting Your Medium Account](connecting-your-medium-account.md)
 
